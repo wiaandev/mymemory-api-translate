@@ -1,0 +1,58 @@
+@import '../Assets/base.scss';
+
+.container {
+    flex: 1;
+    background: linear-gradient(#0098F4, #203281);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+    gap: 20px;
+
+    .heading{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 24px;
+    }
+
+    .input{
+        background-color: transparent;
+        border-color: $primary;
+        outline: none;
+        padding: 13px;
+        margin-top: 20px;
+        border-radius: 15px;
+    }
+
+    .button{
+        background-color: $primary;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        color: $background;
+    }
+
+    .welcome {
+        background-color: $primary;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        padding: 50px;
+
+        .text{
+            max-width: 50%;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .textWrap {
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

@@ -1,0 +1,23 @@
+@import '../Assets/base.scss';
+
+
+.container {
+    flex: 1;
+    background: linear-gradient(#0098F4, #203281);
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    width: 100%;
+    gap: 20px;
+    
+    .button{
+        background-color: $primary;
+        padding: 10px;
+        border-radius: 10px;
+        border: none;
+        outline: none;
+        color: $background;
+    }
+}
