@@ -13,7 +13,7 @@ export default function Home() {
         <img src={landingImg} width={300} />
         <div className={styles.textWrap}>
           <h1 className={styles.heading}>TRANSLATE WITH EASE</h1>
-          <p>Powered by Google Translator AI</p>
+          <p>Powered by MyMemory API</p>
           <br />
           <p className={styles.text}>
             Get instant results and translate as accurate as possible with the

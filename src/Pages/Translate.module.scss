@@ -7,17 +7,51 @@
     display: flex;
     flex-flow: column;
     align-items: center;
+    justify-content: center;
     height: 100vh;
     overflow: hidden;
     width: 100%;
     gap: 20px;
     
     .button{
-        background-color: $primary;
-        padding: 10px;
+        background-color: $background;
+        padding: 15px;
         border-radius: 10px;
         border: none;
         outline: none;
+        color: $primary;
+        width: 25%;
+        margin-bottom: 50px;
+    }
+
+    .dropdown{
+        background-color: $primary;
+        border: none;
+        outline: none;
+        padding: 10px;
         color: $background;
+        width: 200px;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .input{
+        background-color: $background;
+        width: 300px;
+        padding: 20px;
+        color: #203281;
+        font-family: "Open-Sans", sans-serif;
+        outline: none;
+        border: none;
+        border-radius: 10px;
+        font-size: 18px;
+    }
+
+    .translatedText{
+        padding: 15px;
+        border-radius: 10px;
+        color: $background;
+        font-weight: bold;
+        font-size: 36px;
     }
 }

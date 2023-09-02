@@ -1,0 +1,1226 @@
+[
+    {
+        "1": null,
+        "ISO639-1Code": "aa",
+        "EnglishnameofLanguage": "Afar",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ab",
+        "EnglishnameofLanguage": "Abkhazian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ae",
+        "EnglishnameofLanguage": "Avestan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "af",
+        "EnglishnameofLanguage": "Afrikaans",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ak",
+        "EnglishnameofLanguage": "Akan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "am",
+        "EnglishnameofLanguage": "Amharic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "an",
+        "EnglishnameofLanguage": "Aragonese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ar",
+        "EnglishnameofLanguage": "Arabic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "as",
+        "EnglishnameofLanguage": "Assamese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "av",
+        "EnglishnameofLanguage": "Avaric",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ay",
+        "EnglishnameofLanguage": "Aymara",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "az",
+        "EnglishnameofLanguage": "Azerbaijani",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ba",
+        "EnglishnameofLanguage": "Bashkir",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "be",
+        "EnglishnameofLanguage": "Belarusian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bg",
+        "EnglishnameofLanguage": "Bulgarian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bh",
+        "EnglishnameofLanguage": "Bihari languages",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bi",
+        "EnglishnameofLanguage": "Bislama",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bm",
+        "EnglishnameofLanguage": "Bambara",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bn",
+        "EnglishnameofLanguage": "Bengali",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bo",
+        "EnglishnameofLanguage": "Tibetan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bo",
+        "EnglishnameofLanguage": "Tibetan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "br",
+        "EnglishnameofLanguage": "Breton",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "bs",
+        "EnglishnameofLanguage": "Bosnian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ca",
+        "EnglishnameofLanguage": "Catalan; Valencian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ce",
+        "EnglishnameofLanguage": "Chechen",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ch",
+        "EnglishnameofLanguage": "Chamorro",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "co",
+        "EnglishnameofLanguage": "Corsican",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cr",
+        "EnglishnameofLanguage": "Cree",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cs",
+        "EnglishnameofLanguage": "Czech",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cs",
+        "EnglishnameofLanguage": "Czech",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cu",
+        "EnglishnameofLanguage": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cv",
+        "EnglishnameofLanguage": "Chuvash",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cy",
+        "EnglishnameofLanguage": "Welsh",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "cy",
+        "EnglishnameofLanguage": "Welsh",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "da",
+        "EnglishnameofLanguage": "Danish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "de",
+        "EnglishnameofLanguage": "German",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "de",
+        "EnglishnameofLanguage": "German",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "dv",
+        "EnglishnameofLanguage": "Divehi; Dhivehi; Maldivian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "dz",
+        "EnglishnameofLanguage": "Dzongkha",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ee",
+        "EnglishnameofLanguage": "Ewe",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "el",
+        "EnglishnameofLanguage": "Greek, Modern (1453-)",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "el",
+        "EnglishnameofLanguage": "Greek, Modern (1453-)",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "en",
+        "EnglishnameofLanguage": "English",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "eo",
+        "EnglishnameofLanguage": "Esperanto",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "es",
+        "EnglishnameofLanguage": "Spanish; Castilian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "et",
+        "EnglishnameofLanguage": "Estonian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "eu",
+        "EnglishnameofLanguage": "Basque",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "eu",
+        "EnglishnameofLanguage": "Basque",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fa",
+        "EnglishnameofLanguage": "Persian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fa",
+        "EnglishnameofLanguage": "Persian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ff",
+        "EnglishnameofLanguage": "Fulah",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fi",
+        "EnglishnameofLanguage": "Finnish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fj",
+        "EnglishnameofLanguage": "Fijian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fo",
+        "EnglishnameofLanguage": "Faroese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fr",
+        "EnglishnameofLanguage": "French",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fr",
+        "EnglishnameofLanguage": "French",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "fy",
+        "EnglishnameofLanguage": "Western Frisian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ga",
+        "EnglishnameofLanguage": "Irish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "gd",
+        "EnglishnameofLanguage": "Gaelic; Scottish Gaelic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "gl",
+        "EnglishnameofLanguage": "Galician",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "gn",
+        "EnglishnameofLanguage": "Guarani",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "gu",
+        "EnglishnameofLanguage": "Gujarati",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "gv",
+        "EnglishnameofLanguage": "Manx",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ha",
+        "EnglishnameofLanguage": "Hausa",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "he",
+        "EnglishnameofLanguage": "Hebrew",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hi",
+        "EnglishnameofLanguage": "Hindi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ho",
+        "EnglishnameofLanguage": "Hiri Motu",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hr",
+        "EnglishnameofLanguage": "Croatian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ht",
+        "EnglishnameofLanguage": "Haitian; Haitian Creole",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hu",
+        "EnglishnameofLanguage": "Hungarian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hy",
+        "EnglishnameofLanguage": "Armenian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hy",
+        "EnglishnameofLanguage": "Armenian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "hz",
+        "EnglishnameofLanguage": "Herero",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ia",
+        "EnglishnameofLanguage": "Interlingua (International Auxiliary Language Association)",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "id",
+        "EnglishnameofLanguage": "Indonesian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ie",
+        "EnglishnameofLanguage": "Interlingue; Occidental",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ig",
+        "EnglishnameofLanguage": "Igbo",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ii",
+        "EnglishnameofLanguage": "Sichuan Yi; Nuosu",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ik",
+        "EnglishnameofLanguage": "Inupiaq",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "io",
+        "EnglishnameofLanguage": "Ido",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "is",
+        "EnglishnameofLanguage": "Icelandic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "is",
+        "EnglishnameofLanguage": "Icelandic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "it",
+        "EnglishnameofLanguage": "Italian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "iu",
+        "EnglishnameofLanguage": "Inuktitut",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ja",
+        "EnglishnameofLanguage": "Japanese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "jv",
+        "EnglishnameofLanguage": "Javanese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ka",
+        "EnglishnameofLanguage": "Georgian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ka",
+        "EnglishnameofLanguage": "Georgian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kg",
+        "EnglishnameofLanguage": "Kongo",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ki",
+        "EnglishnameofLanguage": "Kikuyu; Gikuyu",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kj",
+        "EnglishnameofLanguage": "Kuanyama; Kwanyama",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kk",
+        "EnglishnameofLanguage": "Kazakh",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kl",
+        "EnglishnameofLanguage": "Kalaallisut; Greenlandic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "km",
+        "EnglishnameofLanguage": "Central Khmer",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kn",
+        "EnglishnameofLanguage": "Kannada",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ko",
+        "EnglishnameofLanguage": "Korean",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kr",
+        "EnglishnameofLanguage": "Kanuri",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ks",
+        "EnglishnameofLanguage": "Kashmiri",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ku",
+        "EnglishnameofLanguage": "Kurdish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kv",
+        "EnglishnameofLanguage": "Komi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "kw",
+        "EnglishnameofLanguage": "Cornish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ky",
+        "EnglishnameofLanguage": "Kirghiz; Kyrgyz",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "la",
+        "EnglishnameofLanguage": "Latin",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lb",
+        "EnglishnameofLanguage": "Luxembourgish; Letzeburgesch",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lg",
+        "EnglishnameofLanguage": "Ganda",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "li",
+        "EnglishnameofLanguage": "Limburgan; Limburger; Limburgish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ln",
+        "EnglishnameofLanguage": "Lingala",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lo",
+        "EnglishnameofLanguage": "Lao",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lt",
+        "EnglishnameofLanguage": "Lithuanian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lu",
+        "EnglishnameofLanguage": "Luba-Katanga",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "lv",
+        "EnglishnameofLanguage": "Latvian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mg",
+        "EnglishnameofLanguage": "Malagasy",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mh",
+        "EnglishnameofLanguage": "Marshallese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mi",
+        "EnglishnameofLanguage": "Maori",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mi",
+        "EnglishnameofLanguage": "Maori",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mk",
+        "EnglishnameofLanguage": "Macedonian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mk",
+        "EnglishnameofLanguage": "Macedonian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ml",
+        "EnglishnameofLanguage": "Malayalam",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mn",
+        "EnglishnameofLanguage": "Mongolian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mr",
+        "EnglishnameofLanguage": "Marathi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ms",
+        "EnglishnameofLanguage": "Malay",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ms",
+        "EnglishnameofLanguage": "Malay",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "mt",
+        "EnglishnameofLanguage": "Maltese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "my",
+        "EnglishnameofLanguage": "Burmese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "my",
+        "EnglishnameofLanguage": "Burmese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "na",
+        "EnglishnameofLanguage": "Nauru",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nb",
+        "EnglishnameofLanguage": "Bokmål, Norwegian; Norwegian Bokmål",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nd",
+        "EnglishnameofLanguage": "Ndebele, North; North Ndebele",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ne",
+        "EnglishnameofLanguage": "Nepali",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ng",
+        "EnglishnameofLanguage": "Ndonga",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nl",
+        "EnglishnameofLanguage": "Dutch; Flemish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nl",
+        "EnglishnameofLanguage": "Dutch; Flemish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nn",
+        "EnglishnameofLanguage": "Norwegian Nynorsk; Nynorsk, Norwegian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "no",
+        "EnglishnameofLanguage": "Norwegian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nr",
+        "EnglishnameofLanguage": "Ndebele, South; South Ndebele",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "nv",
+        "EnglishnameofLanguage": "Navajo; Navaho",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ny",
+        "EnglishnameofLanguage": "Chichewa; Chewa; Nyanja",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "oc",
+        "EnglishnameofLanguage": "Occitan (post 1500)",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "oj",
+        "EnglishnameofLanguage": "Ojibwa",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "om",
+        "EnglishnameofLanguage": "Oromo",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "or",
+        "EnglishnameofLanguage": "Oriya",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "os",
+        "EnglishnameofLanguage": "Ossetian; Ossetic",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "pa",
+        "EnglishnameofLanguage": "Panjabi; Punjabi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "pi",
+        "EnglishnameofLanguage": "Pali",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "pl",
+        "EnglishnameofLanguage": "Polish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ps",
+        "EnglishnameofLanguage": "Pushto; Pashto",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "pt",
+        "EnglishnameofLanguage": "Portuguese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "qu",
+        "EnglishnameofLanguage": "Quechua",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "rm",
+        "EnglishnameofLanguage": "Romansh",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "rn",
+        "EnglishnameofLanguage": "Rundi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ro",
+        "EnglishnameofLanguage": "Romanian; Moldavian; Moldovan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ro",
+        "EnglishnameofLanguage": "Romanian; Moldavian; Moldovan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ru",
+        "EnglishnameofLanguage": "Russian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "rw",
+        "EnglishnameofLanguage": "Kinyarwanda",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sa",
+        "EnglishnameofLanguage": "Sanskrit",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sc",
+        "EnglishnameofLanguage": "Sardinian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sd",
+        "EnglishnameofLanguage": "Sindhi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "se",
+        "EnglishnameofLanguage": "Northern Sami",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sg",
+        "EnglishnameofLanguage": "Sango",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "si",
+        "EnglishnameofLanguage": "Sinhala; Sinhalese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sk",
+        "EnglishnameofLanguage": "Slovak",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sk",
+        "EnglishnameofLanguage": "Slovak",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sl",
+        "EnglishnameofLanguage": "Slovenian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sm",
+        "EnglishnameofLanguage": "Samoan",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sn",
+        "EnglishnameofLanguage": "Shona",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "so",
+        "EnglishnameofLanguage": "Somali",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sq",
+        "EnglishnameofLanguage": "Albanian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sq",
+        "EnglishnameofLanguage": "Albanian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sr",
+        "EnglishnameofLanguage": "Serbian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ss",
+        "EnglishnameofLanguage": "Swati",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "st",
+        "EnglishnameofLanguage": "Sotho, Southern",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "su",
+        "EnglishnameofLanguage": "Sundanese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sv",
+        "EnglishnameofLanguage": "Swedish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "sw",
+        "EnglishnameofLanguage": "Swahili",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ta",
+        "EnglishnameofLanguage": "Tamil",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "te",
+        "EnglishnameofLanguage": "Telugu",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tg",
+        "EnglishnameofLanguage": "Tajik",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "th",
+        "EnglishnameofLanguage": "Thai",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ti",
+        "EnglishnameofLanguage": "Tigrinya",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tk",
+        "EnglishnameofLanguage": "Turkmen",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tl",
+        "EnglishnameofLanguage": "Tagalog",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tn",
+        "EnglishnameofLanguage": "Tswana",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "to",
+        "EnglishnameofLanguage": "Tonga (Tonga Islands)",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tr",
+        "EnglishnameofLanguage": "Turkish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ts",
+        "EnglishnameofLanguage": "Tsonga",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tt",
+        "EnglishnameofLanguage": "Tatar",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "tw",
+        "EnglishnameofLanguage": "Twi",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ty",
+        "EnglishnameofLanguage": "Tahitian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ug",
+        "EnglishnameofLanguage": "Uighur; Uyghur",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "uk",
+        "EnglishnameofLanguage": "Ukrainian",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ur",
+        "EnglishnameofLanguage": "Urdu",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "uz",
+        "EnglishnameofLanguage": "Uzbek",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "ve",
+        "EnglishnameofLanguage": "Venda",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "vi",
+        "EnglishnameofLanguage": "Vietnamese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "vo",
+        "EnglishnameofLanguage": "Volapük",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "wa",
+        "EnglishnameofLanguage": "Walloon",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "wo",
+        "EnglishnameofLanguage": "Wolof",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "xh",
+        "EnglishnameofLanguage": "Xhosa",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "yi",
+        "EnglishnameofLanguage": "Yiddish",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "yo",
+        "EnglishnameofLanguage": "Yoruba",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "za",
+        "EnglishnameofLanguage": "Zhuang; Chuang",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "zh",
+        "EnglishnameofLanguage": "Chinese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "zh",
+        "EnglishnameofLanguage": "Chinese",
+        "": null
+    },
+    {
+        "1": null,
+        "ISO639-1Code": "zu",
+        "EnglishnameofLanguage": "Zulu",
+        "": null
+    }
+]
